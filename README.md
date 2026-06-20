@@ -28,27 +28,7 @@ I am especially interested in engineering projects where perception does not rem
 
 ---
 
-## Featured Projects
-
-### ROS2 Visual Tracking
-
-Real-time ROS2 visual tracking supervisor for embedded robotics, combining segmentation, tracking, confidence gating and reinitialization logic.
-
-**Focus:** ROS2, computer vision, visual tracking, embedded robotics, perception supervision.
-
-[View repository](https://github.com/Minoiu-Mihai/ros2-visual-tracking)
-
----
-
-### AGRO-IA
-
-Selective pesticide application robot concept using computer vision, embedded AI, electronics and physical actuation.
-
-**Focus:** agriculture robotics, edge AI, computer vision, electronics, ESP32, NVIDIA Jetson, CAD and system integration.
-
-[View repository](https://github.com/Minoiu-Mihai/Agro-ai)
-
----
+## Available Projects
 
 ### MEMENTO
 
@@ -89,6 +69,28 @@ CLI tool to scaffold Python projects quickly and consistently.
 Static portfolio website for presenting robotics perception projects, engineering background and technical work.
 
 [View portfolio](https://minoiu-mihai.github.io)
+
+---
+
+## Projects in Development
+
+### ROS2 Visual Tracking
+
+Real-time ROS2 visual tracking supervisor for embedded robotics, combining segmentation, tracking, confidence gating and reinitialization logic.
+
+**Planned focus:** ROS2, computer vision, visual tracking, embedded robotics, perception supervision.
+
+Status: in development.
+
+---
+
+### AGRO-IA
+
+Selective phytosanitary application robot concept using computer vision, embedded AI, electronics and physical actuation.
+
+**Planned focus:** agricultural robotics, edge AI, computer vision, electronics, ESP32, NVIDIA Jetson, CAD and system integration.
+
+Status: in development.
 
 ---
 
@@ -168,14 +170,3 @@ Computer Vision → Robotics Perception → Embedded AI → Hardware Integration
 * Portfolio: [minoiu-mihai.github.io](https://minoiu-mihai.github.io)
 * GitHub: [github.com/Minoiu-Mihai](https://github.com/Minoiu-Mihai)
 * LinkedIn: [in/mihai-valentin-minoiu](https://www.linkedin.com/in/mihai-valentin-minoiu/)
-
-
-<!--
-**Minoiu-Mihai/Minoiu-Mihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🛠️ Ingeniero multidisciplinar | Diseño industrial, Electrónica, Visión por Computador
-🚀 Desarrollo soluciones funcionales que conectan hardware, software y diseño.
-⚙️ Experiencia en CAD, control de motores, IA embebida y visión artificial.
-💡 Proyectos reales, código útil y enfoque riguroso en eficiencia y rendimiento.
-📍 Actualmente trabajando en sistemas de percepción para agricultura de precisión y robótica autónoma.
--->
